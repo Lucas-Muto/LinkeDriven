@@ -62,7 +62,7 @@ O projeto contém 20 consultas SQL que abordam diferentes cenários:
 
 ## 👨‍💻 Autor
 
-Este projeto foi desenvolvido como parte do curso da Driven Education.
+Lucas Sabbag Muto
 
 ---
 
